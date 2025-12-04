@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kishore+Ragul;Transportation+Research+Assistant;AI+%26+Automation+Enthusiast;Data+Science+%7C+GIS+%7C+Cloud&center=true&size=30&duration=3000&pause=1000&color=36BCF7&width=600">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kishore+Ragul;Transportation+Research+Assistant;Data+Analyst+—+Environmental+ML;AI+%26+Automation+Enthusiast;Data+Science+%7C+GIS+%7C+Cloud&center=true&size=30&duration=3000&pause=1000&color=36BCF7&width=600">
 </h1>
 
 <p align="center">
@@ -16,14 +16,29 @@
 
 - 🎓 **Master's in Computer Science** at **Utah State University** (2024 - 2026) | **GPA: 3.7**
 - 🎓 **Bachelor of Engineering (BE)** in Computer Science from **Kumaraguru College of Technology** (2018 - 2022)
-- 🔬 Currently working as **Transportation Research Assistant** at **Utah Transportation Center**
+- 🚗 Currently working as **Transportation Research Assistant** at **Utah Transportation Center**
+- 🔬 Currently working as **Data Analyst** for **PFAS Remediation & Environmental Health Research** at **Utah State University**
 - 💡 Former **Programming Analyst** at **Cognizant** with ~2 years of enterprise experience
-- 🤖 Exploring **AI Automation**, **Machine Learning**, **Geospatial Analysis** & **Data Analytics**
+- 🤖 Exploring **AI Automation**, **Machine Learning**, **Geospatial Epidemiology** & **Environmental Data Science**
 - 📍 Based in **Logan, Utah, United States**
 
 ---
 
 ## 💼 Work Experience
+
+### 🧪 Data Analyst | PFAS Remediation & Environmental Health Research
+**Utah State University** | **Oct 2024 - Present** | Logan, Utah
+
+> Developing ML-driven solutions for environmental remediation and public health analysis
+
+- 📊 Built a comprehensive **PFAS defluorination database** (150+ experiments, 24 compounds, 23 parameters) for ML model training
+- 🤖 Developing **machine learning models** to predict optimal metal nanoalloy catalysts for PFAS destruction
+- 🗺️ Conducting **geospatial epidemiological analysis** linking environmental contamination to Alzheimer's Disease at county level
+- 📈 Identified significant correlations (**r = 0.449, p = 0.032**) between PFAS contamination and ADRD prevalence
+- 🧠 Implementing **Graph Neural Networks (GNN)** and **GWRF** for spatial relationship modeling
+- 🛠️ **Tools:** Python, pandas, scikit-learn, GNN, GWRF, geospatial analysis
+
+---
 
 ### 🚗 Transportation Research Assistant | Utah Transportation Center
 **Oct 2025 - Present** | Logan, Utah (Remote)
@@ -79,6 +94,7 @@
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -88,6 +104,11 @@
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 ![OSMNx](https://img.shields.io/badge/OSMNx-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![Geospatial](https://img.shields.io/badge/Geospatial_Analysis-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+
+### 🧠 Machine Learning & Research
+![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![GWRF](https://img.shields.io/badge/GWRF-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Epidemiology](https://img.shields.io/badge/Geospatial_Epidemiology-00A86B?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 ### ⚡ Automation & Tools
 ![N8n](https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -115,9 +136,10 @@
 ## 🎯 Current Focus
 
 - 🔬 **Research**: Wildfire evacuation route analysis & transportation optimization
-- 📈 **Learning**: Advanced Machine Learning, Deep Learning, and AI applications
-- 🗺️ **Exploring**: Geospatial data analysis and visualization techniques
-- 💡 **Building**: Data-driven solutions for real-world problems
+- 🧪 **Research**: ML-driven PFAS remediation & environmental health epidemiology
+- 📈 **Learning**: Advanced Machine Learning, Graph Neural Networks, and AI applications
+- 🗺️ **Exploring**: Geospatial epidemiology and environmental data science
+- 💡 **Building**: Data-driven solutions for real-world environmental & public health problems
 
 ---
 
