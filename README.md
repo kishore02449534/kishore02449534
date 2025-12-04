@@ -44,12 +44,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### NLP & Cloud
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -65,7 +63,7 @@
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![ParaView](https://img.shields.io/badge/ParaView-C4262E?style=for-the-badge&logo=paraview&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ### Data & ML Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -74,7 +72,6 @@
 
 ### Automation & Tools
 ![N8n](https://img.shields.io/badge/N8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ---
 
@@ -136,3 +133,4 @@ Coimbatore, India
   </a>
   <a href="/cdn-cgi/l/email-protection#b0c9dfc5c29ed5ddd1d9dcf0c5c3c59ed5d4c5">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&lo
+    
