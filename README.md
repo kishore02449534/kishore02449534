@@ -80,7 +80,7 @@
 ### Data Analyst - Utah State University (Aug 2025 – Present)
 **PFAS Remediation & Environmental Health Research** | Logan, Utah
 
-- Built a comprehensive **PFAS defluorination database** (150+ experiments, 24 compounds, 23 parameters) for ML model training
+- Built a comprehensive **PFAS defluorination database** (500+ experiments, 24 compounds, 23 parameters) for ML model training
 - Developing **machine learning models** to predict optimal metal nanoalloy catalysts for PFAS destruction
 - Conducting **geospatial epidemiological analysis** linking environmental contamination to Alzheimer's Disease at county level
 - Identified significant correlations (**r = 0.449, p = 0.032**) between PFAS contamination and ADRD prevalence
